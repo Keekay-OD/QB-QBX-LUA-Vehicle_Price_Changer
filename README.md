@@ -1,6 +1,6 @@
-# QB/ESX Vehicle Price Manager
+# QB/QBX Vehicle Price Manager
 
-A GUI tool for managing vehicle prices and configurations in FiveM QB/QBX server files.
+A GUI tool for managing vehicle prices and configurations in FiveM QB/ESX server files.
 
 ## Features
 ### Main Interface 
@@ -31,7 +31,7 @@ A GUI tool for managing vehicle prices and configurations in FiveM QB/QBX server
 - Multiple vehicle selection
 
 
-### Settings Page
+## Settings Page
 ![Screenshot of settings](https://r2.fivemanage.com/bau0PmFCcx0I8usi9IAHB/images/Screenshot%202024-10-21%20083730.png)
 
 ## Additional Features
